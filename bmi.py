@@ -17,9 +17,3 @@ elif bmi >= 30 and bmi < 35:
    print('您的BMI值為', bmi , '中度肥胖')
 elif bmi >= 35:
    print('您的BMI值為', bmi , '重度肥胖，你該減肥了呦')
-
-
-
-
-
-
